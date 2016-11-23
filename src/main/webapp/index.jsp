@@ -1,8 +1,8 @@
 <html>
 <body><center>
-<h2><font color="green">Hello World Version 1!</font></h2>
+<h1><font color="Blue">Hello World 1!</font></h1>
 
-<h3><font color="cyan">This is existing Production version /</font><font color="green"> Blue </font><font color="cyan"> Environment!</font></h3>
+<h3><font color="red">This is existing Production version /</font><font color="Blue"> Blue </font><font color="red"> Environment!</font></h3>
 </center></body>
 </html>
  	
