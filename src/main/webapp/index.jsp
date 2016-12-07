@@ -43,7 +43,7 @@ article {
 <div class="container">
 
 <header>
-    <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/><h1>Blue - Green Deployment</h1>
+    <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/><h1><font color="blue">Blue</font> - <font color="Green">Green</font> Deployment</h1>
 </header>
   
 <nav>
