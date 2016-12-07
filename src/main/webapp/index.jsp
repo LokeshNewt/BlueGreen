@@ -39,36 +39,35 @@ article {
 </style>
 </head>
 
-<body bgcolor="yellowgreen">
-<img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/>
-<center>
-<h1><font color="green">Hello World 2</font></h1>
-
-<h3><font color="red">This is existing  version </font><font color="Green"> Green </font><font color="red"> Environment!</font></h3>
-</center>
-
-
+<body bgcolor="Aqua">
 <div class="container">
 
 <header>
-   <h1>City Gallery</h1>
+<img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/>
+   <h1>Blue - Green Deployment</h1>
 </header>
   
 <nav>
   <ul>
-    <li><a href="#">London</a></li>
-    <li><a href="#">Paris</a></li>
-    <li><a href="#">Tokyo</a></li>
+    <li><a href="#">DevOps Transform</a></li>
+    <li><a href="#">Test Automation</a></li>
+    <li><a href="#">Out-sourcing</a></li>
   </ul>
 </nav>
+<center>
+<h1><font color="Green">Hello World 2</font></h1>
+
+<h3><font color="red">This is existing  version </font><font color="Green"> Green </font><font color="red"> Environment!</font></h3>
+</center>
 
 <article>
-  <h1>London</h1>
-  <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+  <h1>DevOps Transform</h1>
+  <p>DevOps (a clipped compound of development and operations) is a set of practices that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes</p>
+  <p>Relationship to agile and continuous delivery</p>
+  <p>The specific goals of DevOps span the entire delivery pipeline. They include improved deployment frequency, which can lead to faster time to market, lower failure rate of new releases, shortened lead time between fixes, and faster mean time to recovery in the event of a new release crashing or otherwise disabling the current system. </p>
 </article>
 
-<footer>Copyright © W3Schools.com</footer>
+<footer>Copyright © NewtGlobal.com</footer>
 
 </div>
 
