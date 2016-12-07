@@ -39,7 +39,7 @@ article {
 </style>
 </head>
 
-<body bgcolor="Aqua">
+<body bgcolor="lawngreen">
 <div class="container">
 
 <header>
@@ -54,7 +54,7 @@ article {
   </ul>
 </nav>
 <center>
-<h1><font color="Green">Hello World 2</font></h1>
+<h1><font color="Green">Hello World 1</font></h1>
 <h3><font color="red">This is existing  version </font><font color="Green"> Green </font><font color="red"> Environment!</font></h3>
 </center>
 
@@ -66,10 +66,7 @@ article {
 </article>
 
 <footer>Copyright © NewtGlobal.com</footer>
-
 </div>
-
 </body>
-
 </html>
  	
