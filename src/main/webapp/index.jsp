@@ -41,9 +41,9 @@ article {
 
 <body bgcolor="Aqua">
 <div class="container">
-<img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/>
+
 <header>
-    <h1>Blue - Green Deployment</h1>
+    <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/><h1>Blue - Green Deployment</h1>
 </header>
   
 <nav>
