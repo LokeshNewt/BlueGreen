@@ -41,10 +41,9 @@ article {
 
 <body bgcolor="Aqua">
 <div class="container">
-
-<header>
 <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png"/>
-   <h1>Blue - Green Deployment</h1>
+<header>
+    <h1>Blue - Green Deployment</h1>
 </header>
   
 <nav>
@@ -56,7 +55,6 @@ article {
 </nav>
 <center>
 <h1><font color="Green">Hello World 2</font></h1>
-
 <h3><font color="red">This is existing  version </font><font color="Green"> Green </font><font color="red"> Environment!</font></h3>
 </center>
 
