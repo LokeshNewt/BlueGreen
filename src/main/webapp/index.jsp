@@ -39,7 +39,7 @@ article {
 </style>
 </head>
 
-<body bgcolor="Aqua">
+<body bgcolor="lawngreen">
 <div class="container">
 
 <header>
@@ -48,15 +48,15 @@ article {
   
 <nav>
   <ul>
-  	<p><font face="verdana" color="gold">Dev-Ops Transform</font></p>
-    <p><font face="verdana" color="gold">Test Automation</font></p>
-    <p><font face="verdana" color="gold">Solution Provider</font></p>
+  	<p><font face="verdana" color="gold"><b>Dev-Ops Transform</b></font></p>
+    <p><font face="verdana" color="gold"><b>Test Automation</b></font></p>
+    <p><font face="verdana" color="gold"><b>Solution Provider</b></font></p>
     
   </ul>
 </nav>
 <center>
-<h1><font color="Blue">Hello World 1</font></h1>
-<h3><font color="red">This is new  version </font><font color="blue"> Blue </font><font color="red"> Environment!</font></h3>
+<h1><font color="green">Hello World 2</font></h1>
+<h3><font color="red">This is new  version </font><font color="green"> Green </font><font color="red"> Environment!</font></h3>
 </center>
 
 <article>
