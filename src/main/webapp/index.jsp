@@ -39,7 +39,7 @@ article {
 </style>
 </head>
 
-<body bgcolor="Aqua">
+<body bgcolor="Lawngreen">
 <div class="container">
 
 <header>
@@ -48,24 +48,25 @@ article {
   
 <nav>
   <ul>
-    <li><a href="#">DevOps Transform</a></li>
-    <li><a href="#">Test Automation</a></li>
-    <li><a href="#">Out-sourcing</a></li>
+  	<p><font face="verdana" color="gold">Dev-Ops Transform</font></p>
+    <p><font face="verdana" color="gold">Test Automation</font></p>
+    <p><font face="verdana" color="gold">Solution Provider</font></p>
+    
   </ul>
 </nav>
 <center>
-<h1><font color="Blue">Hello World 1</font></h1>
-<h3><font color="red">This is existing  version </font><font color="Blue"> Blue </font><font color="red"> Environment!</font></h3>
+<h1><font color="Green">Hello World 2</font></h1>
+<h3><font color="red">This is new  version </font><font color="green"> Green </font><font color="red"> Environment!</font></h3>
 </center>
 
 <article>
-  <h1>DevOps Transform</h1>
+  <h1>Dev-Ops </h1>
   <p>DevOps (a clipped compound of development and operations) is a set of practices that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes</p>
   <p>Relationship to agile and continuous delivery</p>
   <p>The specific goals of DevOps span the entire delivery pipeline. They include improved deployment frequency, which can lead to faster time to market, lower failure rate of new releases, shortened lead time between fixes, and faster mean time to recovery in the event of a new release crashing or otherwise disabling the current system. </p>
 </article>
 
-<footer>Copyright © NewtGlobal.com                    Powered by <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png/ width="102" height="22"> </footer>
+<footer>Copyright © NewtGlobal.com         Powered by newt|global </footer>
 </div>
 </body>
 </html>
