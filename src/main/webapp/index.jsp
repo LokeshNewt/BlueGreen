@@ -65,7 +65,7 @@ article {
   <p>The specific goals of DevOps span the entire delivery pipeline. They include improved deployment frequency, which can lead to faster time to market, lower failure rate of new releases, shortened lead time between fixes, and faster mean time to recovery in the event of a new release crashing or otherwise disabling the current system. </p>
 </article>
 
-<footer>Copyright © NewtGlobal.com                                       Powered by <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png width="102" height="22"/> </footer>
+<footer>Copyright © NewtGlobal.com                    Powered by <img src="https://s3-us-west-2.amazonaws.com/test-in/newtglobal_logo.png/ width="102" height="22"> </footer>
 </div>
 </body>
 </html>
