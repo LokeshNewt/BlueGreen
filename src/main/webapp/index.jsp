@@ -9,7 +9,7 @@ div.container {
 header, footer {
     padding: 1em;
     color: white;
-    background-color: grey;
+    background-color: black;
     clear: left;
     text-align: center;
 }
@@ -40,7 +40,7 @@ article {
 </style>
 </head>
 
-<body bgcolor="Lawngreen">
+<body bgcolor="Aqua">
 <div class="container">
 
 <header>
@@ -57,7 +57,7 @@ article {
 </nav>
 <center>
 <h1><font color="Green">Hello World 2</font></h1>
-<h3><font color="red">This is  current version </font><font color="green"> Green </font><font color="red"> Environment!</font></h3>
+<h3><font color="red">This is  current version </font><font color="blue"> Blue </font><font color="red"> Environment!</font></h3>
 </center>
 
 <article>
