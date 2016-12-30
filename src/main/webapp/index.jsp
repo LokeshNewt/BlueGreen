@@ -40,7 +40,7 @@ article {
 </style>
 </head>
 
-<body bgcolor="Aqua">
+<body bgcolor="lawnGreen">
 <div class="container">
 
 <header>
@@ -56,8 +56,8 @@ article {
   </ul>
 </nav>
 <center>
-<h1><font color="blue">Hello World Blue</font></h1>
-<h3><font color="red">This is  current version </font><font color="blue"> Blue </font><font color="red"> Environment!</font></h3>
+<h1><font color="blue">Hello World Green</font></h1>
+<h3><font color="red">This is  current version </font><font color="blue"> Green </font><font color="red"> Environment!</font></h3>
 </center>
 
 <article>
