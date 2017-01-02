@@ -40,7 +40,7 @@ article {
 </style>
 </head>
 
-<body bgcolor="lawnGreen">
+<body bgcolor="cyan">
 <div class="container">
 
 <header>
@@ -56,8 +56,8 @@ article {
   </ul>
 </nav>
 <center>
-<h1><font color="blue">Hello World Green</font></h1>
-<h3><font color="red">This is  current version </font><font color="blue"> Green </font><font color="red"> Environment!</font></h3>
+<h1><font color="blue">Hello World Blue</font></h1>
+<h3><font color="red">This is  current version </font><font color="blue"> Blue </font><font color="red"> Environment!</font></h3>
 </center>
 
 <article>
@@ -67,7 +67,7 @@ article {
   <p>The specific goals of DevOps span the entire delivery pipeline. They include improved deployment frequency, which can lead to faster time to market, lower failure rate of new releases, shortened lead time between fixes, and faster mean time to recovery in the event of a new release crashing or otherwise disabling the current system. </p>
 </article>
 
-<footer>Copyright © NewtGlobal.com  ----------------------------------------------------  Powered by  newt | global </footer>
+<footer>Copyright © NewtGlobal.com  -----------------------------------------------------------  Powered by  newt | global </footer>
 </div>
 </body>
 </html>
